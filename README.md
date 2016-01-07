@@ -13,8 +13,7 @@ The sub-folder `Data` contains all used data sets, along with output files.
 
 At the time, this repository holds the following notebooks:
 
-* __GA_Abalone__ : A work on simple linear and polynomial regression made on the famous _abalone_ dataset (to be reworked with
-latest knowledge).
+* __AbaloneRegression__ : A work on simple linear and polynomial regression made on the famous _abalone_ dataset.
 * __LinguisSearch__ : A study on how web-scrapping, targeting the website [lingbuzz](http://ling.auf.net); not perfect
 but efficient.
 * __LogisticRegression__ : A study on logistic regression, trying to predict delayed flights from several features.
